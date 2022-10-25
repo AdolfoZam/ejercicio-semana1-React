@@ -14,8 +14,7 @@
     box-shadow: 1px 1px 1px 1px;
     padding: 3rem;
     gap: 1rem;
-    width: fit-content;
-
+    width: 450px;
     margin-top: 1rem;
     display: flex;
     flex-direction: column;
